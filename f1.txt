@@ -1,1 +1,4 @@
 this is for test.
+public static void main(String args[]){
+	return;
+}
